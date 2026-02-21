@@ -19,3 +19,5 @@ The microring resonator was designed by adapting parameters from a near-infrared
 The image below shows the Electric field distribution in 3D view: 
 
 <img width="1063" height="603" alt="electric_field_height_exp" src="https://github.com/user-attachments/assets/f1e49425-655c-487e-b385-5ad3bb9fc32e" />
+
+It demonstrates the mode confinement within the high-index core. 
