@@ -1,0 +1,9 @@
+wl_MIR 5.0[um]
+w_core 0.645[um]
+w_clad 6.45[um]
+r0 20.0[um]
+dx 2.31[um]
+lda_MIR wl_MIR
+f_MIR c_const/lda_MIR
+n_core_MgF2 1.375
+n_clad_air 1.0
