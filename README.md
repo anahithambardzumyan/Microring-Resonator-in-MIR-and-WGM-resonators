@@ -21,3 +21,7 @@ The image below shows the Electric field distribution in 2D view:
 <img width="768" height="603" alt="electric_field_height_exp_2d_view" src="https://github.com/user-attachments/assets/a085f234-a452-4c0e-9ad0-917ab9951aef" />
 
 It demonstrates the mode confinement within the high-index core. 
+The best coupling condition in th erange 3.0um to 4.2um corresponds to 4.2um. 
+The Electric field distribution along y-direction is computed to be the following: 
+<img width="768" height="603" alt="Electric field norm along y" src="https://github.com/user-attachments/assets/f63ae0b9-068d-4fc9-9165-b155a3f17d7f" />
+This shows that even though the material imaginary refractive index is set to 0, it still suffers high losses. 
