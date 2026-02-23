@@ -16,8 +16,8 @@ The microring resonator was designed by adapting parameters from a near-infrared
 *   **Radius of Curvature (`r0_new`):** [e.g., 16 µm]
 *   **Waveguide Separation (`dx_new`):** [e.g., 1.849 µm]
 
-The image below shows the Electric field distribution in 3D view: 
+The image below shows the Electric field distribution in 2D view: 
 
-<img width="1063" height="603" alt="electric_field_height_exp" src="https://github.com/user-attachments/assets/f1e49425-655c-487e-b385-5ad3bb9fc32e" />
+<img width="768" height="603" alt="electric_field_height_exp_2d_view" src="https://github.com/user-attachments/assets/a085f234-a452-4c0e-9ad0-917ab9951aef" />
 
 It demonstrates the mode confinement within the high-index core. 
