@@ -1,3 +1,22 @@
+# Whispering Gallery Mode (WGM) Resonators - Simulation Study
+
+## Project Overview: 
+
+Computational study of Whispering Gallery Mode resonators — optical microresonators where light circulates near the surface via total internal reflection, analogous to the acoustic phenomenon first described by Lord Rayleigh (1878) at St. Paul's Cathedral.
+What was simulated: A wedge-shaped SiO₂ microresonator modeled in COMSOL using an axisymmetric eigenfrequency solver. The geometry was surrounded by a Perfectly Matched Layer (PML) to absorb escaping radiation. The electric field was expressed as E(r,φ,z) = E(r,z)exp(−in_m φ), reducing the 3D problem to 2D.
+<img width="822" height="457" alt="image" src="https://github.com/user-attachments/assets/34e123e4-6666-46f9-acf7-c701498986b7" />
+
+
+In the idealized lossless case (κ=0), Q-factors reach ~10¹⁵
+<img width="882" height="355" alt="image" src="https://github.com/user-attachments/assets/1630d576-1c5d-44b4-86b5-7a876b342382" />
+
+Introducing material absorption (imaginary refractive index κ ~ 10⁻⁵ to 10⁻³) drops Q to 10⁴–10²
+Adding a 50 nm silver coating reduces Q from 10¹⁵ to ~10⁴, with a sharp resonance peak near 278 THz, attributed to Ohmic heating, refractive index modification, and additional scattering:
+<img width="1751" height="948" alt="image" src="https://github.com/user-attachments/assets/9bc77877-ef6f-4ce8-ad12-52da048e1f59" />
+
+
+Tools: COMSOL Multiphysics (FEM eigenfrequency analysis)
+
 # Microring-Resonator-in-MIR
 
 ## Project Overview
